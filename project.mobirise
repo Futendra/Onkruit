@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "katsumi+bluespike.html",
+    "currentPage": "gebrokenwit.html",
     "versionFirst": "2.7",
     "uniqCompNum": 1,
     "versionPublish": "3.9.2",
@@ -1081,7 +1081,7 @@
               "src": "@PROJECT_PATH@/assets/images/1500-600x600-18.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://www.facebook.com/onkruitt/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
